@@ -23,7 +23,9 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 Program to print the text “calculator operation”.
+
 Developed by: KARTHIKA E
+
 Registeration Number : 212222040072
 */
 
@@ -176,7 +178,7 @@ Registeration Number : 212222040072
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## MainActiity.java
+## MainActivity.java
 ```
 package com.example.exp9;
 
@@ -272,6 +274,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/0b8eda78-3f15-4676-9b61-84749d493635)
+
 ![image](https://github.com/user-attachments/assets/e79d19e2-327b-4fd7-9808-fa69197d223a)
 
 
